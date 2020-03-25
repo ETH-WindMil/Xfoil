@@ -22,7 +22,7 @@ REQUIRED INPUT FILES:
 ----------------------------------------------------
 OUPUT:
 ----------------------------------------------------
-- xfoil_output.OUT                : XFOIL OUTPUT, INCLUDING MOMENTS OF INERTIA
+- xfoil_output.out                : XFOIL OUTPUT, INCLUDING MOMENTS OF INERTIA
 - XFOILAIRFOIL.dat       	  : XFOIL DISCRITIZED AIRFOIL
 - AIRFOIL_POLARS.dat     	  : XFOIL COMPUTED POLARS, LIFT, DRAG AND MOMENT COEFFICIENTS
 
@@ -31,4 +31,5 @@ OUPUT:
 RESOURCES:
 ----------------------------------------------------
 https://web.mit.edu/drela/Public/web/xfoil/
+
 http://web.mit.edu/aeroutil_v1.0/xfoil_doc.txt
